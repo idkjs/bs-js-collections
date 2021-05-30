@@ -16,6 +16,5 @@
   "bs-dev-dependencies": ["reason-jest"],
   "warnings": {
     "error": "+101"
-  },
-  "refmt": 3
+  }
 }
